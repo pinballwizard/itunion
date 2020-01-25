@@ -11,8 +11,8 @@
 #github: [metadata]
 # Build settings
 #theme: jekyll-theme-midnight
-#theme: jekyll-theme-hacker
-theme: minima
+theme: jekyll-theme-hacker
+#theme: minima
 #plugins:
 #  - jekyll-feed
 #  - github-pages
