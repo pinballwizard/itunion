@@ -1,5 +1,0 @@
-layout: page
-title: "contacts"
-permalink: /about/contacts/
-
-#HELLO
