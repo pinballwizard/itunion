@@ -30,7 +30,7 @@ twitter_username: itunion
 github_username:  itunion
 github: [metadata]
 # Build settings
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
 #theme: minima
 plugins:
   - jekyll-feed
