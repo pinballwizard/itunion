@@ -28,10 +28,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://itunion.pro" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: itunion
 github_username:  itunion
-github: [metadata]
+#github: [metadata]
 # Build settings
-theme: jekyll-theme-midnight
-#theme: minima
+#theme: jekyll-theme-midnight
+#theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 #  - github-pages
