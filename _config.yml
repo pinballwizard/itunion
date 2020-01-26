@@ -1,24 +1,32 @@
-title: Russian IT Union
-email: itunion@pro
+title: Профсоюз работников ИТ
+author:
+ #  name: pinballwizard
+ email: itunion@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Сайт профсоюза работников ИТ России
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://itunion.pro" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: itunion
-#github_username:  itunion
-#github: [metadata]
-# Build settings
-#theme: jekyll-theme-midnight
-#theme: jekyll-theme-merlot
-theme: minima
-#remote_theme: chrisbobbe/jekyll-theme-prologue
-#collections: [sections]
-#plugins:
-#  - jekyll-feed
-#  - github-pages
 
+# Build settings
+#theme: minima
+
+minima:
+ date_format: "%b %-d, %Y"
+ skin: solarized-dark
+ social_links:
+  telegram: ruitunion
+  facebook: itunionpro
+  vkontakte: itunion_info
+#  github: itunionpro
+  rss: itunionpro
+
+header_pages:
+ - codex.md
+ - about.md
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

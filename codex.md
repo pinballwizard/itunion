@@ -1,6 +1,6 @@
 ---
 layout: page
-title: New Page
+title: Кодекс
 permalink: /new/
 ---
 
