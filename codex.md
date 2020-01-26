@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Кодекс
-permalink: /new/
+title: Устав
+permalink: /codex/
 ---
 
-New Page
+Устав профсоюза
 
 ![Union Logo](images/union_logo.jpg)
 

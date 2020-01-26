@@ -3,7 +3,7 @@ author:
  #  name: pinballwizard
  email: itunion@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Сайт профсоюза работников ИТ России
+ Вы можете связатся с нами в любой социальной сети или по почте
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://itunion.pro" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -15,10 +15,10 @@ minima:
  skin: solarized-dark
  social_links:
   telegram: ruitunion
-  facebook: itunionpro
+  facebook: itunion_info
   vkontakte: itunion_info
-#  github: itunionpro
-  rss: itunionpro
+  github: pinballwizard/itunion
+  rss: rss
 
 header_pages:
  - codex.md
